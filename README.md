@@ -4,19 +4,19 @@
 
 ## 파일 설명
 
-### 1. (1) EDA&모델탐색_Section2_Project_machine_learning
+#### 1. (1) EDA&모델탐색_Section2_Project_machine_learning
   - 전처리 & EDA 
   - 가설검증 : Chisquare, Pearson correlation
   - 여러가지 머신러닝 모델의 성능 측정 : logistic regression, Desicion Tree, RandomForest, XGboost, LightGBM, CatBoost
   - cross validation  
  
-### 2. (2) 모델선정_Section2_Project_machine_learning
+#### 2. (2) 모델선정_Section2_Project_machine_learning
   - 최종모델선정 : LightGBM
   - Feature Engneering : 특성중요도, 순열중요도를 고려한 Feature selection
   - 하이퍼파라미터 조절 : early stopping, Randomized Search CV
   - 최적임계값 설정  
  
-### 3. (3) 모델의 해석_Section2_Project_machine_learning
+#### 3. (3) 모델의 해석_Section2_Project_machine_learning
   - 부분의존도 그림(PDP)을 활용한 특성 기여도 해석
   - SHAP을 활용한 개별관측치로부터의 특성 기여도 해석
   - Confusion matrix 및 결론    
