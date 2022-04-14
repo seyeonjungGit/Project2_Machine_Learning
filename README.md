@@ -5,7 +5,7 @@
 ## 파일 설명
 
 #### 1. (1) EDA&모델탐색_Section2_Project_machine_learning
-  - 전처리 & EDA 
+  - 전처리 & EDA & Feature Engneering(Binning)
   - 가설검증 : Chisquare, Pearson correlation
   - 여러가지 머신러닝 모델의 성능 측정 : logistic regression, Desicion Tree, RandomForest, XGboost, LightGBM, CatBoost
   - cross validation  
